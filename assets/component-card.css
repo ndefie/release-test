@@ -96,6 +96,8 @@
   padding: 1rem;
   width: 100%;
   flex-grow: 1;
+  background: #F00;
+  border-radius: 1rem;
 }
 
 .card__content--auto-margins {

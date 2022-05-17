@@ -53,14 +53,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "THIS IS MODIFIED FOR v2.1.0 - the default was 'Talk About Your Brand'",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Also customized for v2.1.0, all of these are custom made.<\/p>"
           }
         }
       },
