@@ -274,9 +274,9 @@
       "view_all": "View all"
     },
     "collection_template": {
-      "empty": "No products found",
+      "empty": "THIS IS A CUSTOM MESSAGE FROM VERSION 2.2.1 FROM LOCALES",
       "title": "Collection",
-      "use_fewer_filters_html": "Use fewer filters or <a class=\"{{ class }}\" href=\"{{ link }}\">remove all</a>"
+      "use_fewer_filters_html": "Use fewer filters FROM VERSION 2.2.1 or <a class=\"{{ class }}\" href=\"{{ link }}\">remove all</a>"
     },
     "video": {
       "load_video": "Load video: {{ description }}"
